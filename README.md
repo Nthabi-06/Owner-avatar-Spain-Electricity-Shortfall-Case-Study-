@@ -30,5 +30,9 @@ This dataset contains information about the weather conditions in various Spanis
 - By analyzing the data, we observe that the overall sinusoidal pattern of the load_shortfall_3h variable remains consistent on average, despite its shifting occurrence at different intervals. This suggests that there is a recurring pattern in the data, indicating that similar patterns can be expected in the near future.
 - We can see from the pattern on the graph that during summer months have a higher loadshortfall, possibly due to higher solar generation.
 
+![Screenshot (331)](https://github.com/Nthabi-06/Spain-Electricity-Shortfall-Case-Study/assets/128138564/9db50e92-127e-4105-9e1b-c6cfc9cdbdec)
+
+- The best performing model is the Random forest regression model, which works by combining the predictions of multiple individual decision trees. And it gave more accurate predictions as compared to other models. We managed to get RMSE value of 3791 which placed us on the 22 position on kaggle.
+
 # Recommendations
 - To optimize the utilization of renewable electricity resources, it may be beneficial to shift the focus away from summer, where there is already a surplus of renewable energy production. Instead, consideration should be given to prioritizing other seasons when certain renewable sources, such as wind energy, are more abundant and can make a greater contribution to the energy mix.
