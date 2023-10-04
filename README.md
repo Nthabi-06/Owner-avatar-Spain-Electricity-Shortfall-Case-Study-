@@ -29,3 +29,6 @@ This dataset contains information about the weather conditions in various Spanis
 
 - By analyzing the data, we observe that the overall sinusoidal pattern of the load_shortfall_3h variable remains consistent on average, despite its shifting occurrence at different intervals. This suggests that there is a recurring pattern in the data, indicating that similar patterns can be expected in the near future.
 - We can see from the pattern on the graph that during summer months have a higher loadshortfall, possibly due to higher solar generation.
+
+# Recommendations
+- To optimize the utilization of renewable electricity resources, it may be beneficial to shift the focus away from summer, where there is already a surplus of renewable energy production. Instead, consideration should be given to prioritizing other seasons when certain renewable sources, such as wind energy, are more abundant and can make a greater contribution to the energy mix.
