@@ -11,6 +11,7 @@ This dataset contains information about the weather conditions in various Spanis
 - Preprocessing- Data cleaned and relevant features added, or existing features augmented.
 - Modelling- Various ML models trained and optimised.
 - Validation- Best model thoroughly discussed and used to generate Kaggle submission.
+  ![Screenshot (125)](https://github.com/Nthabi-06/Spain-Electricity-Shortfall-Case-Study/assets/128138564/091563ef-c792-4163-b40e-bc813695c1c5)
 
 # Tools used
 - Python
