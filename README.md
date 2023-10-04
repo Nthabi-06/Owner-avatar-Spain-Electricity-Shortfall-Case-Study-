@@ -25,3 +25,4 @@ This dataset contains information about the weather conditions in various Spanis
 
 # Output
 
+![Screenshot (330)](https://github.com/Nthabi-06/Spain-Electricity-Shortfall-Case-Study/assets/128138564/8e812558-b394-483c-9319-fdfbea694b33)
