@@ -26,3 +26,6 @@ This dataset contains information about the weather conditions in various Spanis
 # Output
 
 ![Screenshot (330)](https://github.com/Nthabi-06/Spain-Electricity-Shortfall-Case-Study/assets/128138564/8e812558-b394-483c-9319-fdfbea694b33)
+
+- By analyzing the data, we observe that the overall sinusoidal pattern of the load_shortfall_3h variable remains consistent on average, despite its shifting occurrence at different intervals. This suggests that there is a recurring pattern in the data, indicating that similar patterns can be expected in the near future.
+- We can see from the pattern on the graph that during summer months have a higher loadshortfall, possibly due to higher solar generation.
