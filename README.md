@@ -36,3 +36,11 @@ This dataset contains information about the weather conditions in various Spanis
 
 # Recommendations
 - To optimize the utilization of renewable electricity resources, it may be beneficial to shift the focus away from summer, where there is already a surplus of renewable energy production. Instead, consideration should be given to prioritizing other seasons when certain renewable sources, such as wind energy, are more abundant and can make a greater contribution to the energy mix.
+
+# Acknowledgements
+I would like to thank my team members for their contributions:
+- Tsholofelo Nkoana
+- Ayanda Ndlovu
+- Xolisile Sibiya
+- Catherine Lekalakala
+- Bonolo Kaekae
